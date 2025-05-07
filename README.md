@@ -4,10 +4,13 @@
 
 Me chamo Juliana Maria Ribeiro Jacinto, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC de Cachoeira Paulisca, com o curso técnico integrado em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC de Cruzeiro. Sou apaixonada por tecnologia e artes visuais, sempre buscando novos métodos de ensino para poder aprimorar meus conhecimentos nessas duas áreas, que acabou se misturando ao longo dos anos. Compartilho meu aprendizado aqui no GitHub "[Juliana Jacinto](https://github.com/JulianaJacinto/)", e minha caminhada artística no Instagram, com o perfil chamado "[Gleppy Arts🌱](https://www.instagram.com/gleppy.arts)".
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-jacinto/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
 ---
 
 ## 🤖 Linguagens e Tecnologias
-Descrição em breve...
+Tecnologias que utilizo ou com as quais já tive experiência prática em projetos acadêmicos e profissionais.
 
 <img 
     align="left" 
@@ -102,8 +105,21 @@ Descrição em breve...
 
 ---
 
+## 💼 Experiência Profissional
+
+### 🏢 Empresa de Marketing (2024)
+- Suporte técnico e manutenção de sites WordPress
+- Atualização de conteúdos, plugins e ajustes visuais
+- Suporte básico a clientes da agência
+
+### 🛒 Projeto Carla Modas (2025)
+- Desenvolvimento completo de loja virtual WordPress + WooCommerce
+- Personalização de layout e configuração de sistema de pagamentos e categorias
+
+---
+
 ## 📌 Projetos em Destaque
-Descrição em breve...
+Aqui você encontra alguns dos principais sites e sistemas nos quais atuei nos últimos anos.
 
 ### ♻️ [Due To Renew - Site Institucional](https://duetorenew.com/)
 > Site desenvolvido para divulgar os serviços e produtos da Duo to Renew, uma empresa voltada à inovação e sustentabilidade para mães de crianças pequenas.
@@ -117,11 +133,11 @@ Descrição em breve...
 > Loja online desenvolvida para a marca Carla Modas, especializada em roupas femininas modernas e acessíveis.
 
 - 🧵 **Objetivo**: criar uma plataforma intuitiva para vendas online, com foco em visual atrativo e experiência do usuário.
-- 💼 **Papel no projeto**: atuei na personalização do layout, estruturação das páginas e configuração de funcionalidades essenciais do e-commerce.
+- 💼 **Papel no9 projeto**: atuei na personalização do layout, estruturação das páginas e configuração de funcionalidades essenciais do e-commerce.
 - 🛠️ **Tecnologias Utilizadas**: ![Wordpress](https://img.shields.io/badge/-WordPress-3776AB?style=flat&logo=wordpress&logoColor=white), ![Elementor](https://img.shields.io/badge/-ElementorPro-e6477c?style=flat&logo=elemetorpro&logoColor=white), ![PHP](https://img.shields.io/badge/-PHP-e68e47?style=flat&logo=php&logoColor=white)
 - 📱 **Destaques**: site responsivo, sistema de carrinho e checkout, organização de produtos por categorias e integração com redes sociais e WhatsApp.
 
-### 🧠 [IAM Gestão - Consultoria Empresarial](https://carlaamodas.com.br/)
+### 🧠 [IAM Gestão - Consultoria Empresarial](https://iamgestao.com.br/)
 > Site institucional desenvolvido para a IAM Gestão, empresa especializada em soluções administrativas, consultoria e estratégias empresariais.
 
 - 🎯 **Objetivo**: apresentar os serviços da empresa, demonstrar credibilidade e facilitar o contato com clientes em potencial.
@@ -144,7 +160,9 @@ Descrição em breve...
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaJacinto&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+<br/>
+<br/>
