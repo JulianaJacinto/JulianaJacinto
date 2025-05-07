@@ -5,7 +5,7 @@
 Me chamo Juliana Maria Ribeiro Jacinto, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC de Cachoeira Paulisca, com o curso técnico integrado em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC de Cruzeiro. Sou apaixonada por tecnologia e artes visuais, sempre buscando novos métodos de ensino para poder aprimorar meus conhecimentos nessas duas áreas, que acabou se misturando ao longo dos anos. Compartilho meu aprendizado aqui no GitHub "[Juliana Jacinto](https://github.com/JulianaJacinto/)", e minha caminhada artística no Instagram, com o perfil chamado "[Gleppy Arts🌱](https://www.instagram.com/gleppy.arts)".
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-jacinto/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:julimaria2003@gmail.com)
 
 ---
 
