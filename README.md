@@ -107,12 +107,14 @@ Tecnologias que utilizo ou com as quais já tive experiência prática em projet
 
 ## 💼 Experiência Profissional
 
-### 🏢 Empresa de Marketing (2024)
+### 🍍 Estágio em Desenvolvimento Web - Empresa de Marketing
+_Pineapple TI_ | Jan 2024 - Mai 2024
 - Suporte técnico e manutenção de sites WordPress
 - Atualização de conteúdos, plugins e ajustes visuais
 - Suporte básico a clientes da agência
 
-### 🛒 Projeto Carla Modas (2025)
+### 🦋 Estágio em Desenvolvimento Web - Projeto Carla Modas
+_Carla Modas_ | Dez 2024 - Fev 2025
 - Desenvolvimento completo de loja virtual WordPress + WooCommerce
 - Personalização de layout e configuração de sistema de pagamentos e categorias
 
@@ -133,7 +135,7 @@ Aqui você encontra alguns dos principais sites e sistemas nos quais atuei nos �
 > Loja online desenvolvida para a marca Carla Modas, especializada em roupas femininas modernas e acessíveis.
 
 - 🧵 **Objetivo**: criar uma plataforma intuitiva para vendas online, com foco em visual atrativo e experiência do usuário.
-- 💼 **Papel no9 projeto**: atuei na personalização do layout, estruturação das páginas e configuração de funcionalidades essenciais do e-commerce.
+- 💼 **Papel no projeto**: atuei na personalização do layout, estruturação das páginas e configuração de funcionalidades essenciais do e-commerce.
 - 🛠️ **Tecnologias Utilizadas**: ![Wordpress](https://img.shields.io/badge/-WordPress-3776AB?style=flat&logo=wordpress&logoColor=white), ![Elementor](https://img.shields.io/badge/-ElementorPro-e6477c?style=flat&logo=elemetorpro&logoColor=white), ![PHP](https://img.shields.io/badge/-PHP-e68e47?style=flat&logo=php&logoColor=white)
 - 📱 **Destaques**: site responsivo, sistema de carrinho e checkout, organização de produtos por categorias e integração com redes sociais e WhatsApp.
 
