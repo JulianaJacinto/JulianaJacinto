@@ -1,51 +1,41 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👩🏻‍💻 Juliana Jacinto
 
-🎓 Estudante / Desenvolvedor / Engenheiro de Software (escolha o que se aplica)  
-💻 Apaixonado por desenvolvimento web, Python, dados e tecnologia  
-🌱 Atualmente aprendendo: [tecnologias ou conceitos que está estudando]  
-📫 Contato: [seu email] | [LinkedIn] | [outras redes profissionais]
+**`Desenvolvedora Front-End`** **`Ilustradora no tempo livre 🎨✏️`**
 
----
-
-## 🧰 Tecnologias & Ferramentas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+Me chamo Juliana Maria Ribeiro Jacinto, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio na ETEC de Cachoeira Paulisca, com o curso técnico integrado em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC de Cruzeiro. Sou apaixonada por tecnologia e artes, smepre buscando novos métodos de ensino para poder aprimorar meus conhecimentos nessas duas áreas, que acabou se misturando ao longo dos anos. Compartilho meu aprendizado aqui no GitHub "[Juliana Jacinto](https://github.com/JulianaJacinto/)"
 
 ---
 
-## 📌 Projetos em Destaque
+## 💡 Sobre mim
 
-### 🔹 [Nome do Projeto 1](https://github.com/seuusuario/projeto1)
-> Pequena descrição do que faz esse projeto e suas principais tecnologias.  
-> Tecnologias: React, Node.js, SQLite
-
-### 🔹 [Nome do Projeto 2](https://github.com/seuusuario/projeto2)
-> Descrição breve do propósito e funcionalidades.  
-> Tecnologias: Python, Flask, Pandas
-
-### 🔹 [Nome do Projeto 3](https://github.com/seuusuario/projeto3)
-> Uma frase sobre a motivação ou o desafio resolvido.  
-> Tecnologias: HTML, CSS, JavaScript
+Sou apaixonada por tecnologia, criação e desenvolvimento de projetos simples e práticos. Tenho experiência com linguagens de programação, ferramentas de design e também habilidades administrativas, o que me permite atuar de forma versátil em diferentes áreas.
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Minhas Habilidades
 
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=dracula)
-
----
-
-## ✨ Curiosidades
-
-- 🔭 Gosto de participar de projetos open-source
-- 📚 Amo ensinar e compartilhar conhecimento
-- ⚡ Curiosidade: [Algo divertido ou inesperado sobre você]
+- 💻 **Linguagens de Programação**: Java, JavaScript, C, C#, HTML  
+- 🧠 **Análise e Desenvolvimento**  
+- 🛠️ **Construção de Projetos Simples e Práticos**  
+- 🎨 **Ferramentas de Web Design**: Figma, WordPress  
+- 📊 **Ferramentas Administrativas**: Word, Excel
 
 ---
 
-> _"Frase inspiradora ou lema pessoal opcional."_  
+## 🌍 Idiomas
+
+- 🇧🇷 Português: Língua Materna  
+- 🇺🇸 Inglês: Intermediário (C2)
+
+---
+
+## 📌 Links Importantes
+
+- 🎓 **Perfil Alura**: [Juliana na Alura](https://cursos.alura.com.br/user/julimaria2003)  
+- 💼 **GitHub**: [github.com/JulianaJacinto](https://github.com/JulianaJacinto)  
+- 🌐 **Portfólio Profissional**: *em construção*  
+- 🎨 **Portfólio Artístico (Desenhos)**: [Instagram @jukka.arts](https://www.instagram.com/jukka.arts/)
+
+---
+
+Obrigada pela atenção, tenha um bom dia! ⍢♥
