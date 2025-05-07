@@ -97,30 +97,8 @@ Descrição em breve...
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/woocommerce/woocommerce-plain-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Windows" 
-    title="Windows"
-    width="50px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
-/>
 <br/>
 <br/>
-
----
-
-## 💼 Experiências Profissionais
-
-### 📍 2024 – Suporte e manutenção de sites
 
 ---
 
@@ -153,9 +131,7 @@ Descrição em breve...
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Juliana Jacinto](https://github-readme-stats.vercel.app/api?username=JulianaJacinto&show_icons=true&theme=dracula)
 ![Tecnologias mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaJacinto&theme=dracula&langs_count=9)
-
----
