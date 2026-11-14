@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 210" width="540" height="210" role="img" aria-label="StudyConnect">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffc31f"/><stop offset="1" stop-color="#eb8107"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="539" height="209" rx="16" fill="#1f1f1f" stroke="#4b4847"/>
+<rect x="0" y="28" width="6" height="154" rx="3" fill="url(#g)"/>
+<text x="30" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#ffc31f">TRABALHO DE GRADUAÇÃO · FATEC</text>
+<text x="30" y="76" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#e6e1db">StudyConnect</text>
+<text x="30" y="106" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6e1db" opacity=".78">Projeto em equipe com João Emanoel e Maxson,</text>
+<text x="30" y="127" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6e1db" opacity=".78">com API e front-end em pastas separadas.</text>
+<text x="30" y="148" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6e1db" opacity=".78">Back-end em Node.js, Prisma e MySQL.</text>
+<rect x="30" y="166" width="73" height="26" rx="13" fill="#4b4847"/>
+<text x="66.5" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">Node.js</text>
+<rect x="111" y="166" width="66" height="26" rx="13" fill="#4b4847"/>
+<text x="144.0" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">Prisma</text>
+<rect x="185" y="166" width="59" height="26" rx="13" fill="#4b4847"/>
+<text x="214.5" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">MySQL</text>
+<rect x="252" y="166" width="66" height="26" rx="13" fill="#4b4847"/>
+<text x="285.0" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">Vercel</text>
+</svg>
