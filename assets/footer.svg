@@ -4,8 +4,22 @@
   <rect width="1200" height="150" rx="20" fill="#1f1f1f"/>
   <rect x="0.5" y="0.5" width="1199" height="149" rx="20" fill="none" stroke="#4b4847"/>
   <rect x="64" y="34" width="56" height="5" rx="2.5" fill="url(#g)"/>
-  <text x="64" y="78" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#e6e1db">Código e desenho, quase sempre juntos.</text>
-  <text x="64" y="112" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" fill="#e6e1db" opacity=".6">© 2026 Juliana Jacinto  ·  @jukka.arts</text>
+  
+<text x="64" y="78"
+      font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="28"
+      font-weight="700"
+      fill="#e6e1db">
+  Tecnologia, pesquisa e boas ideias em construção.
+</text>
+
+<text x="64" y="112"
+      font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace"
+      font-size="15"
+      fill="#e6e1db"
+      opacity=".6">
+  DESENVOLVIMENTO · IoT · INOVAÇÃO
+</text>
   <g font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15">
     <text x="1136" y="78" text-anchor="end" fill="#ffc31f">obrigada pela visita</text>
     <text x="1136" y="112" text-anchor="end" fill="#eb8107">/* até o próximo commit */</text>
