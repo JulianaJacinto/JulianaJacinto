@@ -7,14 +7,19 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=ffc31f)](https://www.linkedin.com/in/juliana-jacinto/)
-[![E-mail](https://img.shields.io/badge/E--mail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=ffc31f)](mailto:julimaria2003@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=ffc31f)](mailto:jacinto.juliana2003@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-1f1f1f?style=for-the-badge&logo=googlechrome&logoColor=ffc31f)](https://julianajacinto.github.io/)
 
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/pamellachristiny">
+<img src="https://komarev.com/ghpvc/?username=julianajacinto&label=VISITAS%20AO%20PERFIL&color=ffc31f&style=flat-square" alt="Profile views"/>
+</a>
+</div>
 
-## ₊˚꩜ Sobre mim ✮˚₊
+
+## `₊˚꩜ Sobre mim ദ്ദി(˵ •̀ ᴗ - ˵ ) ✮˚₊`
 
 Sou graduada em **Análise e Desenvolvimento de Sistemas** pela Fatec Cruzeiro, com interesse em desenvolvimento de software, pesquisa tecnológica e criação de soluções que integrem diferentes áreas do conhecimento.
 
@@ -26,16 +31,17 @@ Após sua adaptação, o sensor realizou coletas de dados que possibilitaram est
 
 Atualmente, continuo ampliando meus conhecimentos em desenvolvimento de software e Inteligência Artificial, por meio da formação em **Engenharia de Agentes de IA**, da Alura.
 
-## ₊˚꩜ Áreas de interesse ✮˚₊
 
-- Desenvolvimento de Software e Aplicações Web
-- Pesquisa e Desenvolvimento Tecnológico
-- Inteligência Artificial e Algoritmos
-- Internet das Coisas (IoT)
-- Experiência do Usuário e Interfaces Digitais
-- Inovação e Projetos de Tecnologia
+## `₊˚꩜ Áreas de interesse ✮˚₊`
 
-## ₊˚꩜ Tecnologias e Ferramentas ✮˚₊
+- _Desenvolvimento de Software e Aplicações Web_
+- _Pesquisa e Desenvolvimento Tecnológico_
+- _Inteligência Artificial e Algoritmos_
+- _Internet das Coisas (IoT)_
+- _Experiência do Usuário e Interfaces Digitais_
+- _Inovação e Projetos de Tecnologia_
+
+## `₊˚꩜ Tecnologias e Ferramentas ✮˚₊`
 
 Tecnologias e ferramentas com as quais tive contato em projetos acadêmicos e profissionais. Minha familiaridade varia conforme a tecnologia e o contexto de utilização.
 
@@ -46,6 +52,7 @@ Tecnologias e ferramentas com as quais tive contato em projetos acadêmicos e pr
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Vue, Tailwind CSS e Vite"/>
   </a>
 </div>
+<sub>ᕦʕ •`ᴥ•´ʔᕤ</sub>
 
 ### Programação e Back-end
 
@@ -81,9 +88,7 @@ Tecnologias e ferramentas com as quais tive contato em projetos acadêmicos e pr
   </a>
 </div>
 
----
-
-## ₊˚꩜ Projetos em destaque ✮˚₊
+## `₊˚꩜ Projetos ʕっ•ᴥ•ʔっ ✮˚₊ `
 
 <table>
   <tr>
@@ -114,7 +119,7 @@ Tecnologias e ferramentas com as quais tive contato em projetos acadêmicos e pr
 
 <br/>
 
-## ₊˚꩜ Estatísticas do GitHub} ✮˚₊
+## `₊˚꩜ Estatísticas do GitHub ✮˚₊`
 
 <div align="center">
 
