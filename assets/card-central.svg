@@ -2,15 +2,41 @@
 <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffc31f"/><stop offset="1" stop-color="#eb8107"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="539" height="209" rx="16" fill="#1f1f1f" stroke="#4b4847"/>
 <rect x="0" y="28" width="6" height="154" rx="3" fill="url(#g)"/>
-<text x="30" y="40" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" letter-spacing="1.5" fill="#ffc31f">PROGRAMA EDUCAÇÃO · INPE</text>
-<text x="30" y="76" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="25" font-weight="800" fill="#e6e1db">Central de Coleta de Dados</text>
-<text x="30" y="106" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6e1db" opacity=".78">Dashboard web da estação meteorológica de baixo</text>
-<text x="30" y="127" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6e1db" opacity=".78">custo: temperatura, umidade, pressão, vento e</text>
-<text x="30" y="148" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#e6e1db" opacity=".78">bateria, com gráficos, pluviometria e histórico.</text>
-<rect x="30" y="166" width="51" height="26" rx="13" fill="#4b4847"/>
-<text x="55.5" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">HTML</text>
-<rect x="89" y="166" width="44" height="26" rx="13" fill="#4b4847"/>
-<text x="111.0" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">PHP</text>
-<rect x="141" y="166" width="96" height="26" rx="13" fill="#4b4847"/>
-<text x="189.0" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">JavaScript</text>
+
+<text x="30" y="40"
+      font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace"
+      font-size="12"
+      letter-spacing="1.5"
+      fill="#ffc31f">PROJETO DE EXTENSÃO · INPE</text>
+
+<text x="30" y="76"
+      font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="25"
+      font-weight="800"
+      fill="#e6e1db">Anemômetro · Projeto INPE</text>
+
+<text x="30" y="106"
+      font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="14"
+      fill="#e6e1db"
+      opacity=".78">Recuperação, calibração e integração de um sensor de vento,</text>
+
+<text x="30" y="127"
+      font-family="'Segoe UI',Helvetica,Arial,sans-serif"
+      font-size="14"
+      fill="#e6e1db"
+      opacity=".78">com placa eletrônica e código para coleta de dados ambientais.</text>
+
+<rect x="30" y="166" width="72" height="26" rx="13" fill="#4b4847" />
+<text x="66" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">Arduino</text>
+
+<rect x="110" y="166" width="58" height="26" rx="13" fill="#4b4847"/>
+<text x="139" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">ESP32</text>
+
+<rect x="176" y="166" width="42" height="26" rx="13" fill="#4b4847"/>
+<text x="197" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">IoT</text>
+
+<rect x="226" y="166" width="66" height="26" rx="13" fill="#4b4847"/>
+<text x="259" y="183.5" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#e6e1db">C/C++</text>
+
 </svg>
